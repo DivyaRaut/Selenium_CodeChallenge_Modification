@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "request": "^2.88.0",
     "selenium-webdriver": "3.6.0"
   },
